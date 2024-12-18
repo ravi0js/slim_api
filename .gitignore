@@ -1,0 +1,30 @@
+# Composer dependencies
+/vendor/
+
+/node_modules/
+
+/.env
+/.env.*.local
+
+# Cache and logs
+/tmp/
+/cache/
+/logs/
+
+# IDE and editor files
+*.swp
+*.swo
+*.idea/
+/*.vscode/
+/*.DS_Store
+
+# PHPUnit
+.phpunit.result.cache
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*.old
+*.orig
+*.log
